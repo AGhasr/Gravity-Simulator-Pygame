@@ -32,6 +32,14 @@ Run the program from your terminal:
 python gravity_simulator.py
 ```
 
+## 🏃 Run with Shell Script
+
+Alternatively, run the simulator with:
+
+```bash
+./run.sh
+```
+
 ## 🧠 How to Play
 
 1. Click once to set the rocket's initial position
